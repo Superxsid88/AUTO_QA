@@ -7,8 +7,8 @@ This module now uses ONLY the OpenAI API.
 - ASR (optional): OpenAI Whisper transcription API
 - All Hugging Face / local checkpoints removed.
 
-Author: Rituraj (modified for OpenAI-only)
-Date: 2025-05-15 → Updated
+Author: Siddhant Kumar (modified for OpenAI-only)
+Date: 2025-11-08
 """
 
 import os
